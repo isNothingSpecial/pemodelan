@@ -1,3 +1,4 @@
 Pandas
 Sklearn
 Pickle5
+Streamlit
